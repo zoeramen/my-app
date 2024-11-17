@@ -1,2 +1,2 @@
 # my-app
-Photo and media storage and manipulation
+Photo and media storage and manipulation!
